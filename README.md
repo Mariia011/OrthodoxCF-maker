@@ -1,2 +1,2 @@
 # OrthodoxCF-maker
-Silly Script for most boring process ever
+Silly script for most boring process ever
